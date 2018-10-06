@@ -78,3 +78,7 @@ spec:
     - services.k8s.community
     secretName: tls-secret
 ```
+
+```
+kubectl apply -f ingress.yaml
+```
