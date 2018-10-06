@@ -52,3 +52,29 @@ USER=your_github_user
 kubectl run hello-app --image=gcr.io/google-samples/hello-app:1.0 --port=8080 -n ${USER}
 kubectl expose deployment hello-app -n ${USER}
 ```
+
+Ingress configuration (example):
+
+```yaml
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: hello-app-ingress
+  namespace: rumyantseva
+  annotations:
+    kubernetes.io/ingress.class: nginx
+    nginx.ingress.kubernetes.io/rewrite-target: "/"
+spec:
+  rules:
+  - host: services.k8s.community
+    http:
+      paths:
+      - path: /rumyantseva/hello
+        backend:
+          serviceName: hello-app
+          servicePort: 8080
+  tls:
+  - hosts:
+    - services.k8s.community
+    secretName: tls-secret
+```
