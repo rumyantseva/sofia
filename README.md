@@ -93,6 +93,11 @@ docker run -p 8080:8080 -p 8585:8585 -t go-sofia
 ```
 
 
-## Setup CI/CD service 
+## MVP to complete the workshop
 
-https://github.com/apps/k8s
+- Set up https://github.com/apps/k8s for your service
+- Provide helm configuration and Makefile (you can use https://github.com/rumyantseva/go-sofia as an example)
+- Prepare a new "release" branch (e.g. release/0.0.1, release/0.0.2 etc)
+- Push changes to the release branch
+- You changes should be triggered by the CI and you will see the message next to the commit as soon as the CI process completed
+
