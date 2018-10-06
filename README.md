@@ -1,6 +1,12 @@
 # Workshop materials
 
+Elena Grahovac
+
+- hello@grahovac.pro
+- https://twitter.com/webdeva
+
 This document: https://kubernetes.grahovac.pro
+
 
 ## Agenda
 
