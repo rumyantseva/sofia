@@ -91,3 +91,8 @@ kubectl apply -f ingress.yaml
 docker build -t go-sofia .
 docker run -p 8080:8080 -p 8585:8585 -t go-sofia
 ```
+
+
+## Setup CI/CD service 
+
+https://github.com/apps/k8s
