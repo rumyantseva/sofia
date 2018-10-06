@@ -35,10 +35,6 @@ Elena Grahovac
 - On October, 20th the cluster and all the data will be deleted.
 - If you want us to delete your data earlier, please let us know.
 
-## Where to start
-
-https://ui.k8s.community
-
 ## Additional slides
 - http://gowayfest.grahovac.pro
 
@@ -46,3 +42,12 @@ https://ui.k8s.community
 
 https://github.com/rumyantseva/go-sofia
 
+## Check your Kubernetes-readines
+
+Follow the instruction: https://ui.k8s.community
+
+```
+USER=your_github_user
+kubectl run hello-app --image=gcr.io/google-samples/hello-app:1.0 --port=8080 -n ${USER}
+kubectl expose deployment hello-app -n ${USER}
+```
