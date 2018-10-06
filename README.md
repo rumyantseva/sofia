@@ -2,15 +2,15 @@
 
 ## Agenda
 
-Morning coffee & Registration  - 9:30 - 10:00
-Introduction & Preparation     - 10:00 - 11:00
-Coffee break                   - 11:00 - 11:15
-Writing Go from scratch        - 11:15 - 12:15
-Lunch (Provided at the venue)  - 12:15 - 13:00
-Getting ready for production   - 13:00 - 14:45
-Coffee Break                   - 14:45 - 15:00
-Ship it!                       - 15:00 - 16:45
-Q&A + Optional topics          - 16:45 - 17:30
+- Morning coffee & Registration  - 9:30 - 10:00
+- Introduction & Preparation     - 10:00 - 11:00
+- Coffee break                   - 11:00 - 11:15
+- Writing Go from scratch        - 11:15 - 12:15
+- Lunch (Provided at the venue)  - 12:15 - 13:00
+- Getting ready for production   - 13:00 - 14:45
+- Coffee Break                   - 14:45 - 15:00
+- Ship it!                       - 15:00 - 16:45
+- Q&A + Optional topics          - 16:45 - 17:30
 
 ## Checklist
 
