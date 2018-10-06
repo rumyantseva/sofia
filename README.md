@@ -84,9 +84,10 @@ kubectl apply -f ingress.yaml
 ```
 
 
-## Build a Docker image
+## Build a Docker image and run container
 
 
 ```
 docker build -t go-sofia .
+docker run -p 8080:8080 -p 8585:8585 -t go-sofia
 ```
