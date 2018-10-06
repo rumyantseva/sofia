@@ -45,6 +45,7 @@ https://github.com/rumyantseva/go-sofia
 ## Check your Kubernetes-readines
 
 Follow the instruction: https://ui.k8s.community
+Kubernetes dashboard: https://dash.k8s.community
 
 ```
 USER=your_github_user
