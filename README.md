@@ -1,5 +1,7 @@
 # Workshop materials
 
+This document: https://kubernetes.grahovac.pro
+
 ## Agenda
 
 - Morning coffee & Registration  - 9:30 - 10:00
