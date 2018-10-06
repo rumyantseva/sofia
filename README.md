@@ -1,11 +1,11 @@
 # Workshop materials
 
+This document: https://kubernetes.grahovac.pro
+
 Elena Grahovac
 
 - hello@grahovac.pro
 - https://twitter.com/webdeva
-
-This document: https://kubernetes.grahovac.pro
 
 
 ## Agenda
@@ -28,6 +28,12 @@ This document: https://kubernetes.grahovac.pro
 - If Windows: Cygwin - https://cygwin.com/install.html
 - GitHub Account: https://github.com
 - Git client
+
+## Cleanup notes
+
+- The cluster will be available for a couple of weeks.
+- On October, 20th the cluster and all the data will be deleted.
+- If you want us to delete your data earlier, please let us know.
 
 ## Where to start
 
