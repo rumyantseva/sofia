@@ -82,3 +82,11 @@ spec:
 ```
 kubectl apply -f ingress.yaml
 ```
+
+
+## Build a Docker image
+
+
+```
+docker build -t go-sofia .
+```
