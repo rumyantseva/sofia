@@ -39,3 +39,10 @@ Elena Grahovac
 
 https://ui.k8s.community
 
+## Additional slides
+- http://gowayfest.grahovac.pro
+
+## Example service
+
+https://github.com/rumyantseva/go-sofia
+
