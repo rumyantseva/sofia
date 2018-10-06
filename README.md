@@ -6,7 +6,7 @@ Elena Grahovac
 
 - hello@grahovac.pro
 - https://twitter.com/webdeva
-
+- https://github.com/rumyantseva
 
 ## Agenda
 
